@@ -3,3 +3,14 @@ background-color:#00008B ;
 
 
 }
+
+
+.capa{
+    color:#00008B
+    font: size 20px;
+}
+
+#futebol {
+display:flex
+padding: left 200px;
+}
